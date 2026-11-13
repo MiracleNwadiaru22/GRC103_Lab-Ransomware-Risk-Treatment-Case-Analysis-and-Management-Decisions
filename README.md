@@ -20,7 +20,3 @@ Developed a revised cybersecurity risk treatment portfolio valued at **$98,000**
 - Risk Treatment Plan
 - 30-Day Implementation Roadmap
 - Board Communication Memo
-
-**Author:** Miracle Nwadiaru  
-**Programme:** Certified GRC Engineering – Cohort 11  
-**Module:** GRC 103 – Practical Laboratory
