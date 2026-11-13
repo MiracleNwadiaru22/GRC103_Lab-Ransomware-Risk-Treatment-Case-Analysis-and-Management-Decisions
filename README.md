@@ -1,3 +1,4 @@
+# GRC 103 – Ransomware Risk Treatment Case Lab
 A practical GRC assignment focused on assessing, prioritising, and treating cybersecurity risks using a fictional healthcare organisation, Northbridge Community Health, based on lessons from the 2021 Ireland Health Service Executive (HSE) ransomware attack.
 
 ## Key Areas Covered
